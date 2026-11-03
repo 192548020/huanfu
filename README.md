@@ -1,6 +1,6 @@
 # huanfu
 
-A tiny sandbox repository used to try out the [dsh-superagent](https://github.com/deepseek-ai/dsh-superagent-prototype) research prototype.
+A tiny Sandbox repository used to try out the [dsh-superagent](https://github.com/deepseek-ai/dsh-superagent-prototype) research prototype.
 
 ## Files
 
