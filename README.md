@@ -2,7 +2,7 @@
 
 A tiny sandbox repository used to try out the [dsh-superagent](https://github.com/deepseek-ai/dsh-superagent-prototype) research prototype.
 
-## Files
+## Project files
 
 - `src/greet.py` — greeting helpers
 - `tests/test_greet.py` — tests
